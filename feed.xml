@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Nuxt Blog Clone</title>
+        <link>https://nuxt-blog-clone.vercel.app</link>
+        <description>Articles about NuxtJS</description>
+        <lastBuildDate>Tue, 10 Aug 2021 19:35:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Hướng dẫn hackgame với Cheat engine]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/cheat-engine-hack-game</link>
+            <guid>https://nuxt-blog-clone.vercel.app/cheat-engine-hack-game</guid>
+            <pubDate>Tue, 10 Aug 2021 18:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nhật ký học CI/ CD bắt đầu từ Drone.io]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/nhat-ky-hoc-ci-cd-bat-dau-tu-droneio-gDVK2wxvZLj</link>
+            <guid>https://nuxt-blog-clone.vercel.app/nhat-ky-hoc-ci-cd-bat-dau-tu-droneio-gDVK2wxvZLj</guid>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giải pháp multi-tenancy]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/giai-phap-multi-tenancy</link>
+            <guid>https://nuxt-blog-clone.vercel.app/giai-phap-multi-tenancy</guid>
+            <pubDate>Tue, 10 Aug 2021 18:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dùng Nginx trên docker swarm và script để tạo và gia hạn ssl trên docker swarm]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/dung-nginx-tren-docker-swarm-va-script-de-tao-va-gia-han-ssl-tren-docker-swarm-eW65G4jPKDO</link>
+            <guid>https://nuxt-blog-clone.vercel.app/dung-nginx-tren-docker-swarm-va-script-de-tao-va-gia-han-ssl-tren-docker-swarm-eW65G4jPKDO</guid>
+            <pubDate>Tue, 10 Aug 2021 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Triển khai docker swarm, glusterfs và giao diện quản lý swarmpit]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/trien-khai-docker-swarm-glusterfs-va-giao-dien-quan-ly-swarmpit-ByEZkr0qKQ0</link>
+            <guid>https://nuxt-blog-clone.vercel.app/trien-khai-docker-swarm-glusterfs-va-giao-dien-quan-ly-swarmpit-ByEZkr0qKQ0</guid>
+            <pubDate>Tue, 10 Aug 2021 17:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nhật ký làm hệ thống getLink vip Fshare trong 48h]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/nhat-ky-lam-he-thong-getlink-vip-fshare-trong-48h-m68Z07v6KkG</link>
+            <guid>https://nuxt-blog-clone.vercel.app/nhat-ky-lam-he-thong-getlink-vip-fshare-trong-48h-m68Z07v6KkG</guid>
+            <pubDate>Sat, 07 Aug 2021 17:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nhật ký học CI/ CD bắt đầu từ Drone.io]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/markdown</link>
+            <guid>https://nuxt-blog-clone.vercel.app/markdown</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Nuxt Module]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/creating-a-nuxt-module</link>
+            <guid>https://nuxt-blog-clone.vercel.app/creating-a-nuxt-module</guid>
+            <pubDate>Fri, 27 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Modules are functions that are called sequentially when booting Nuxt. The framework waits for each module to finish before continuing. In this way, modules can customize almost any aspect of your project. Let's create a module that uses ngrok to get a Public URL that you can share while working in Development.]]></description>
+            <content:encoded><![CDATA[Modules are functions that are called sequentially when booting Nuxt. The framework waits for each module to finish before continuing. In this way, modules can customize almost any aspect of your project. Let's create a module that uses ngrok to get a Public URL that you can share while working in Development.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nuxt Static Improvements]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/nuxt-static-improvements</link>
+            <guid>https://nuxt-blog-clone.vercel.app/nuxt-static-improvements</guid>
+            <pubDate>Mon, 27 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[With Nuxt.js version 2.13, the full-static mode has been introduced. In addition, a new command nuxt export was added to pre-render your pages without triggering a webpack build with the goal to separate the rendering and build process. The only issue was that most Nuxt.js users weren't able to unleash the full potential of the separation... until now.]]></description>
+            <content:encoded><![CDATA[With Nuxt.js version 2.13, the full-static mode has been introduced. In addition, a new command nuxt export was added to pre-render your pages without triggering a webpack build with the goal to separate the rendering and build process. The only issue was that most Nuxt.js users weren't able to unleash the full potential of the separation... until now.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Create a Blog with Nuxt Content]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/creating-blog-with-nuxt-content</link>
+            <guid>https://nuxt-blog-clone.vercel.app/creating-blog-with-nuxt-content</guid>
+            <pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Content module is a git files based headless CMS that provides powerful features when it comes to write blogs, documentation sites or just adding content to any regular website. In this post we will go through most of the benefits of this module and discover how we can create a blog with it.]]></description>
+            <content:encoded><![CDATA[The Content module is a git files based headless CMS that provides powerful features when it comes to write blogs, documentation sites or just adding content to any regular website. In this post we will go through most of the benefits of this module and discover how we can create a blog with it.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Improve Your Developer Experience With Nuxt Components]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/improve-your-developer-experience-with-nuxt-components</link>
+            <guid>https://nuxt-blog-clone.vercel.app/improve-your-developer-experience-with-nuxt-components</guid>
+            <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore how you can import and register Vue components automatically using @nuxt/components module.]]></description>
+            <content:encoded><![CDATA[Explore how you can import and register Vue components automatically using @nuxt/components module.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Going Full Static]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/going-full-static</link>
+            <guid>https://nuxt-blog-clone.vercel.app/going-full-static</guid>
+            <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Long awaited features for Jamstack fans has been shipped in v2.13: full static export, improved smart prefetching, integrated crawler, faster re-deploy, built-in web server and new target option for config :zap:️]]></description>
+            <content:encoded><![CDATA[Long awaited features for Jamstack fans has been shipped in v2.13: full static export, improved smart prefetching, integrated crawler, faster re-deploy, built-in web server and new target option for config :zap:️]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Moving from @nuxtjs/dotenv to runtime config]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/moving-from-nuxtjs-dotenv-to-runtime-config</link>
+            <guid>https://nuxt-blog-clone.vercel.app/moving-from-nuxtjs-dotenv-to-runtime-config</guid>
+            <pubDate>Mon, 15 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[In our frontend applications, we often use APIs and third-party integrations which require us to use configuration data which is usually provided by environment variables. These variables should not be exposed to the frontend as the browser environment is accessible by all visitors.]]></description>
+            <content:encoded><![CDATA[In our frontend applications, we often use APIs and third-party integrations which require us to use configuration data which is usually provided by environment variables. These variables should not be exposed to the frontend as the browser environment is accessible by all visitors.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Going dark with Nuxt.js color mode]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/going-dark-with-nuxtjs-color-mode</link>
+            <guid>https://nuxt-blog-clone.vercel.app/going-dark-with-nuxtjs-color-mode</guid>
+            <pubDate>Tue, 19 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The @nuxtjs/color-mode module is a cool way of adding dark mode to your site. But not only does it switch from dark to light but also any color theme (eg. sepia mode). It even has auto detection so that it will choose the right mode depending on your system appearance.]]></description>
+            <content:encoded><![CDATA[The @nuxtjs/color-mode module is a cool way of adding dark mode to your site. But not only does it switch from dark to light but also any color theme (eg. sepia mode). It even has auto detection so that it will choose the right mode depending on your system appearance.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Nuxt's $2M seed round]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/seed-round</link>
+            <guid>https://nuxt-blog-clone.vercel.app/seed-round</guid>
+            <pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three years ago, my brother Sébastien and I were open sourcing our code to build Vue.js application server side rendered easily. Today, we are incredibly excited to announce that NuxtJS has raised $2M in seed funding.]]></description>
+            <content:encoded><![CDATA[Three years ago, my brother Sébastien and I were open sourcing our code to build Vue.js application server side rendered easily. Today, we are incredibly excited to announce that NuxtJS has raised $2M in seed funding.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Build a DEV.TO clone with Nuxt new fetch]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/build-dev-to-clone-with-nuxt-new-fetch</link>
+            <guid>https://nuxt-blog-clone.vercel.app/build-dev-to-clone-with-nuxt-new-fetch</guid>
+            <pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Let’s build a blazing fast articles and tutorials app using Nuxt, Dev.to API, with lazy loading, placeholders, caching and trendy neumorphic design UI.]]></description>
+            <content:encoded><![CDATA[Let’s build a blazing fast articles and tutorials app using Nuxt, Dev.to API, with lazy loading, placeholders, caching and trendy neumorphic design UI.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Understanding how fetch works in Nuxt 2.12]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/understanding-how-fetch-works-in-nuxt-2-12</link>
+            <guid>https://nuxt-blog-clone.vercel.app/understanding-how-fetch-works-in-nuxt-2-12</guid>
+            <pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore different features of the fetch hook and learn a brand new way to bring data into Nuxt applications.]]></description>
+            <content:encoded><![CDATA[Explore different features of the fetch hook and learn a brand new way to bring data into Nuxt applications.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NuxtJS: From Terminal to Browser]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/nuxtjs-from-terminal-to-browser</link>
+            <guid>https://nuxt-blog-clone.vercel.app/nuxtjs-from-terminal-to-browser</guid>
+            <pubDate>Tue, 04 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[How we changed the developer experience to stop switching between the terminal and browser.]]></description>
+            <content:encoded><![CDATA[How we changed the developer experience to stop switching between the terminal and browser.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Smart Prefeching]]></title>
+            <link>https://nuxt-blog-clone.vercel.app/introducing-smart-prefetching</link>
+            <guid>https://nuxt-blog-clone.vercel.app/introducing-smart-prefetching</guid>
+            <pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starting from Nuxt v2.4.0, Nuxt.js will automagically prefetch the code-splitted pages linked with a nuxt-link when visible in the viewport by default.]]></description>
+            <content:encoded><![CDATA[Starting from Nuxt v2.4.0, Nuxt.js will automagically prefetch the code-splitted pages linked with a nuxt-link when visible in the viewport by default.]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://nuxt-blog-clone.vercel.app/sitemap.xml
